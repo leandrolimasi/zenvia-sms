@@ -1,3 +1,3 @@
 /.idea/
-/zenvia-sms.iml
+*.iml
 /target/
